@@ -5,4 +5,7 @@ def test_function():
     inner_function()
 
 
+#inner_function()
+#print(inner_function())
+
 test_function()
